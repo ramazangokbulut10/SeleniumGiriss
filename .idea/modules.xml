@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumGirisA.iml" filepath="$PROJECT_DIR$/.idea/SeleniumGirisA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E-Selenium1-master/SeleniumNewProject.iml" filepath="$PROJECT_DIR$/E-Selenium1-master/SeleniumNewProject.iml" />
+    </modules>
+  </component>
+</project>
