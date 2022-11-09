@@ -4,7 +4,124 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20534afe-afeb-4113-8870-597af8c245a0" name="Changes" comment="" />
+    <list default="true" id="20534afe-afeb-4113-8870-597af8c245a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/BasarılıBirOtomasyonTestiİcinYapılmasıGerekenler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ManualTestNedir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım10KütüphanelerinYeriniGösterme1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım10KütüphanelerinYeriniGösterme2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım10KütüphanelerinYeriniGösterme3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım10KütüphanelerinYeriniGösterme4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım4SrcninAltınaResourcesDirectoryOlustur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım5ResourcesinAltındaDirectoryOlusturAdınıDriversYap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım6ResourcesinAltındaDirectoryOlusturAdınıLibrariersYap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım7İndirdiğimizDriveriDışarıÇıkarıpİçindekiniKopyalaDriverseYapıstır.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım8İndirdiğimizLibrariesiDışarıÇıkarıpİçindekiniKopyalaLibrarieseYapıstır.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/ProjeOlusturmaAdım9TestinAltındaJavanınAltındaPackageOlusturma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/Selenium Nedir .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumAvatantajlarıNelerdir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım5ChoromeSürümünüÖğrenme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumKurulumAdım6ChoromeSürümününAynıOlduğunuTeyitEttik.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumVeChromeDriverKurulumu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SeleniumunDezAvantajlarıNelerdir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SoftwareTestingNedenÖnemlidir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/SoftwareTestingNedir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/TestOtomasyonFrameWorkleri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/TestOtomasyonuNedir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C04_GetPageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C07_ManageMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C08_ManageMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C09_ManageMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/SS00Day01_ÖncekiDerstenAklımızdaKalanlar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/SS01_DriverMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/SS02_DriverNavigateMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/SS03_DriverManageMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/SS04_DriverManageMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C04_WebElemeentMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS00_WebElementNedir.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS00_WebSayfalarınıİnceleme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS02_AyrıntılıLocater.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS10_FindElement.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS11_FindElements.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS12_WebElementeTıklamaVeriGetirme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS13_WebElementMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS14_WebElementMethodları.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/C03_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/HW_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS01_HtmlParentChildSiblingTerimleri.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS02_Xpath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS03_AbsoluteXpath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS04_RelativeXpath.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS05_RelativeXpath2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS06_RelativeXpath3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS07_CssSelector.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS08_CssSelector2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C02_DriverMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C02_DriverMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C03_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C05_GetWindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C04_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C03_IlkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C05_NavigateMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C06_NavigateMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/EkranAyarlariMethod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/NavigateMethodlari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/driver.getMethodlari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/selenium methodlar.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/selenium methodlar.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/ÖncekiDerstenAklımızdaKalanlar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/8Locators.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C01_GetMethodsOdev.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW01_GetMethodsOdev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C01_NavigationMethodsOdev.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW02_NavigationMethodsOdev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C02_ManageMethodlari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C03_ManageMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C03_ManageMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C04_ManageMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C04_ManageMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C05_Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/C06_findelements.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/C02_Findelements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/WebElement.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/linkText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/odev_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/odev_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02/odev_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/HW_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/AyrıntılıLocater.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS03_AyrıntılıLocater.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/C01_SinifCalismasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/C02_GetMethodlari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/C03_TekrarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/C04_FindElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/C05_XPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/C02_Xpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/ClassNameLocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS06_ClassNameLocator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/LinkTextLocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS07_LinkTextLocator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/Locators.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS01_Locators.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/NameLocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS05_NameLocator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/PartialLinkTextLocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS08_PartialLinkTextLocator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/TagNameLocators.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS09_TagNameLocators.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/getMethodlari.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/İDlocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS04_İDlocator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C01_CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C01_CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C01_IlkClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C02_DriverMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C03_WindowHandle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C04_IlkTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C05_NavigateMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C01_GetMethodsOdev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C01_NavigationMethodsOdev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C02_ManageMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C03_ManageMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C04_ManageMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C05_Locators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/C06_findelements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/odev_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/odev_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day02/odev_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day03/C01_SinifCalismasi.class" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day03/C01_SinifCalismasi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day04/C01_CssSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day04/C01_CssSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day04/odev.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +159,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SeleniumGirisA&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SeleniumGirisA/E-Selenium1-master/src/test/java/day00&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -50,23 +167,25 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day00" />
       <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\resources\drivers" />
       <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\resources\libraries" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day04" />
+      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day04_xpath_cssLocater" />
+      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day03_locators" />
+      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day0003" />
+      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day02_driverMethodları" />
       <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day03" />
-      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day02" />
-      <recent name="D:\SeleniumGirisA\E-Selenium1-master\src\test\java\day01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C01_SinifCalismasi">
-    <configuration name="C01_GetMethodsOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.C01_GetMethodsOdev" />
+  <component name="RunManager" selected="Application.HW_04">
+    <configuration name="C02_Findelements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_Findelements" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_SinifCalismasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.C01_SinifCalismasi" />
+    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_Locators" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_FindElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.C04_FindElements" />
+    <configuration name="C07_ManageMethodları" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodları.C07_ManageMethodları" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day02_driverMethodları.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.C05_XPath" />
+    <configuration name="C08_ManageMethodları" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodları.C08_ManageMethodları" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day02_driverMethodları.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day03.C02_GetMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.C02_GetMethodlari" />
+    <configuration name="HW_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.HW_04" />
       <module name="SeleniumNewProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_SinifCalismasi" />
-        <item itemvalue="Application.C05_XPath" />
-        <item itemvalue="Application.C04_FindElements" />
-        <item itemvalue="Application.day03.C02_GetMethodlari" />
-        <item itemvalue="Application.C01_GetMethodsOdev" />
+        <item itemvalue="Application.HW_04" />
+        <item itemvalue="Application.C03_Locators" />
+        <item itemvalue="Application.C02_Findelements" />
+        <item itemvalue="Application.C08_ManageMethodları" />
+        <item itemvalue="Application.C07_ManageMethodları" />
       </list>
     </recent_temporary>
   </component>
