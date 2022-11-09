@@ -55,6 +55,7 @@
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS13_WebElementMethodları.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS14_WebElementMethodları.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/C03_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/C04_RelativeLocators.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/HW_01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS01_HtmlParentChildSiblingTerimleri.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS02_Xpath.jpg" afterDir="false" />
@@ -64,6 +65,8 @@
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS06_RelativeXpath3.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS07_CssSelector.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS08_CssSelector2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS09_RelativeLocators.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04_xpath_cssLocater/SS10_RelativeLocators2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day01/C02_DriverMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day02_driverMethodları/C02_DriverMethodlari.java" afterDir="false" />
@@ -102,7 +105,18 @@
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/TagNameLocators.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS09_TagNameLocators.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/getMethodlari.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03/İDlocator.png" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day03_locators/SS04_İDlocator.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C01_CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C01_CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/AbsoluteXpath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C01_CssSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/C02_RelativeLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/CssSelector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/CssSelector2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/RelativeLocators.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/RelativeXpath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/RelativeXpath2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/WebElementİsMethodları.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/XpathLocater1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/cssSelectorMethod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Selenium1-master/src/test/java/day04/odev01.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C01_IlkClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C02_DriverMethodlari.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/E-Selenium1-master/target/test-classes/day01/C03_WindowHandle.class" beforeDir="false" />
